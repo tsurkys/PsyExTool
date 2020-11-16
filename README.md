@@ -1,1 +1,1 @@
-# PsyExTool
+# PsyExTool - Psychophysical Experiment Toolbox
