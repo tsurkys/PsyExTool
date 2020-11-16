@@ -1,0 +1,1127 @@
+# Created by Octave 5.2.0, Tue Mar 10 22:31:52 2020 GMT <unknown@Tado-kompas>
+# name: VDS
+# type: global scalar struct
+# ndims: 2
+ 1 1
+# length: 13
+# name: OK
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 49
+# name: description
+# type: matrix
+# rows: 0
+# columns: 0
+
+
+# name: y_formula
+# type: sq_string
+# elements: 1
+# length: 27
+(abs(y)-abs(EX.KAtkp))*0.37
+
+
+# name: FigG_formula
+# type: sq_string
+# elements: 1
+# length: 4
+FigG
+
+
+# name: Kart_formula
+# type: sq_string
+# elements: 1
+# length: 4
+Kart
+
+
+# name: y_label
+# type: sq_string
+# elements: 1
+# length: 14
+Error, arc min
+
+
+# name: FigG_label
+# type: sq_string
+# elements: 1
+# length: 29
+?alios fig?ros ry?kis, cd/m^2
+
+
+# name: Kart_label
+# type: sq_string
+# elements: 1
+# length: 4
+Kart
+
+
+# name: PagN_formula
+# type: sq_string
+# elements: 1
+# length: 25
+0.367.*EX.KAtkp.*PagN./60
+
+
+# name: PagN_label
+# type: sq_string
+# elements: 1
+# length: 23
+Number of dots, arc min
+
+
+# name: FLum2_formula
+# type: sq_string
+# elements: 1
+# length: 5
+FLum2
+
+
+# name: FLum2_label
+# type: sq_string
+# elements: 1
+# length: 40
+Indukuojan?i? br?k?neli? ry?kis (cd/m^2)
+
+
+# name: FLum_formula
+# type: sq_string
+# elements: 1
+# length: 4
+FLum
+
+
+# name: FLum_label
+# type: sq_string
+# elements: 1
+# length: 26
+Br?k?neli? ry?kis (cd/m^2)
+
+
+# name: Step_formula
+# type: sq_string
+# elements: 1
+# length: 9
+Step*0.37
+
+
+# name: Step_label
+# type: sq_string
+# elements: 1
+# length: 37
+Atstumas tarp br?k?neli? (kampo min.)
+
+
+# name: Ilgis_formula
+# type: sq_string
+# elements: 1
+# length: 10
+Ilgis*0.37
+
+
+# name: Ilgis_label
+# type: sq_string
+# elements: 1
+# length: 15
+Pagaliuk? ilgis
+
+
+# name: KAtkp_formula
+# type: sq_string
+# elements: 1
+# length: 11
+KAtkp.*0.37
+
+
+# name: KAtkp_label
+# type: sq_string
+# elements: 1
+# length: 29
+Referent part length, arc min
+
+
+# name: Shift_formula
+# type: sq_string
+# elements: 1
+# length: 10
+Shift*0.37
+
+
+# name: Shift_label
+# type: sq_string
+# elements: 1
+# length: 18
+Tarpas, kampo min.
+
+
+# name: p_formula
+# type: sq_string
+# elements: 1
+# length: 1
+p
+
+
+# name: p_label
+# type: sq_string
+# elements: 1
+# length: 6
+daznis
+
+
+# name: StimType_formula
+# type: sq_string
+# elements: 1
+# length: 8
+StimType
+
+
+# name: StimType_label
+# type: sq_string
+# elements: 1
+# length: 8
+StimType
+
+
+# name: Frame12_formula
+# type: sq_string
+# elements: 1
+# length: 10
+Frame12*10
+
+
+# name: Frame12_label
+# type: sq_string
+# elements: 1
+# length: 29
+Stimulo pateikimo trukm? (ms)
+
+
+# name: StimType2_formula
+# type: sq_string
+# elements: 1
+# length: 9
+StimType2
+
+
+# name: StimType2_label
+# type: sq_string
+# elements: 1
+# length: 9
+StimType2
+
+
+# name: Rep_formula
+# type: sq_string
+# elements: 1
+# length: 3
+Rep
+
+
+# name: Rep_label
+# type: sq_string
+# elements: 1
+# length: 3
+Rep
+
+
+# name: rep_label
+# type: sq_string
+# elements: 1
+# length: 3
+rep
+
+
+# name: mi_formula
+# type: sq_string
+# elements: 1
+# length: 7
+mi*0.37
+
+
+# name: mi_label
+# type: sq_string
+# elements: 1
+# length: 20
+wing length, arc min
+
+
+# name: non_formula
+# type: sq_string
+# elements: 1
+# length: 3
+non
+
+
+# name: non_label
+# type: sq_string
+# elements: 1
+# length: 3
+non
+
+
+# name: oyrand_formula
+# type: sq_string
+# elements: 1
+# length: 11
+oyrand*0.37
+
+
+# name: oyrand_label
+# type: sq_string
+# elements: 1
+# length: 28
+Distribution range (arc min)
+
+
+# name: Kamp_formula
+# type: sq_string
+# elements: 1
+# length: 4
+Kamp
+
+
+# name: Kamp_label
+# type: sq_string
+# elements: 1
+# length: 11
+Angle, deg.
+
+
+# name: Disloc_formula
+# type: sq_string
+# elements: 1
+# length: 11
+Disloc*0.37
+
+
+# name: Disloc_label
+# type: sq_string
+# elements: 1
+# length: 23
+Vertical shift, arc min
+
+
+# name: CFF2_formula
+# type: sq_string
+# elements: 1
+# length: 4
+CFF2
+
+
+# name: CFF2_label
+# type: sq_string
+# elements: 1
+# length: 8
+Contrast
+
+
+# name: temp
+# type: sq_string
+# elements: 1
+# length: 27
+(abs(y)-abs(EX.KAtkp))*0.37
+
+
+# name: LL_formula
+# type: sq_string
+# elements: 1
+# length: 7
+LL*0.37
+
+
+# name: LL_label
+# type: sq_string
+# elements: 1
+# length: 20
+Line length, arc min
+
+
+# name: dy_formula
+# type: sq_string
+# elements: 1
+# length: 7
+dy*0.37
+
+
+# name: dy_label
+# type: sq_string
+# elements: 1
+# length: 14
+Error, arc min
+
+
+
+
+# name: soundML
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 12
+# name: SigVol_label
+# type: sq_string
+# elements: 1
+# length: 38
+Signalo stiprumas, reliatyv?s vienetai
+
+
+# name: Sigvol_formula
+# type: sq_string
+# elements: 1
+# length: 3
+var
+
+
+# name: fr_label
+# type: sq_string
+# elements: 1
+# length: 10
+Da?nis, Hz
+
+
+# name: fr_formula
+# type: sq_string
+# elements: 1
+# length: 3
+var
+
+
+# name: Kart_label
+# type: sq_string
+# elements: 1
+# length: 7
+X1 a?is
+
+
+# name: Kart_formula
+# type: sq_string
+# elements: 1
+# length: 3
+var
+
+
+# name: y_label
+# type: sq_string
+# elements: 1
+# length: 9
+trukm?, s
+
+
+# name: y_formula
+# type: matrix
+# rows: 0
+# columns: 0
+
+
+# name: p_label
+# type: sq_string
+# elements: 1
+# length: 11
+Probability
+
+
+# name: p_formula
+# type: sq_string
+# elements: 1
+# length: 1
+p
+
+
+# name: FigR_label
+# type: matrix
+# rows: 0
+# columns: 0
+
+
+# name: FigR_formula
+# type: sq_string
+# elements: 1
+# length: 3
+var
+
+
+
+
+# name: signoise
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 4
+# name: description
+# type: matrix
+# rows: 0
+# columns: 0
+
+
+# name: p_formula
+# type: sq_string
+# elements: 1
+# length: 1
+p
+
+
+# name: Sigvol_formula
+# type: sq_string
+# elements: 1
+# length: 6
+Sigvol
+
+
+# name: Kart_formula
+# type: sq_string
+# elements: 1
+# length: 4
+Kart
+
+
+
+
+# name: soundOKML
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 7
+# name: description
+# type: matrix
+# rows: 0
+# columns: 0
+
+
+# name: p_formula
+# type: sq_string
+# elements: 1
+# length: 1
+p
+
+
+# name: Interval2_formula
+# type: sq_string
+# elements: 1
+# length: 9
+Interval2
+
+
+# name: Kart_formula
+# type: sq_string
+# elements: 1
+# length: 4
+Kart
+
+
+# name: p_label
+# type: sq_string
+# elements: 1
+# length: 1
+p
+
+
+# name: Interval2_label
+# type: sq_string
+# elements: 1
+# length: 13
+Interval 2, s
+
+
+# name: Kart_label
+# type: sq_string
+# elements: 1
+# length: 4
+Kart
+
+
+
+
+# name: stimul
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 7
+# name: description
+# type: matrix
+# rows: 0
+# columns: 0
+
+
+# name: Test_formula
+# type: sq_string
+# elements: 1
+# length: 11
+Test-EX.Ref
+
+
+# name: DistrN_formula
+# type: sq_string
+# elements: 1
+# length: 6
+DistrN
+
+
+# name: Kart_formula
+# type: sq_string
+# elements: 1
+# length: 4
+Kart
+
+
+# name: Test_label
+# type: sq_string
+# elements: 1
+# length: 19
+Iliuzijos stiprumas
+
+
+# name: DistrN_label
+# type: sq_string
+# elements: 1
+# length: 21
+Distraktori? skai?ius
+
+
+# name: Kart_label
+# type: sq_string
+# elements: 1
+# length: 4
+Kart
+
+
+
+
+# name: stimulVSG
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 25
+# name: description
+# type: matrix
+# rows: 0
+# columns: 0
+
+
+# name: Test_formula
+# type: sq_string
+# elements: 1
+# length: 18
+(EX.Ref-Test)*1.21
+
+
+# name: DistrN_formula
+# type: sq_string
+# elements: 1
+# length: 6
+DistrN
+
+
+# name: Kart_formula
+# type: sq_string
+# elements: 1
+# length: 4
+Kart
+
+
+# name: Test_label
+# type: sq_string
+# elements: 1
+# length: 26
+Illusion strength, arc min
+
+
+# name: DistrN_label
+# type: sq_string
+# elements: 1
+# length: 13
+Distractor no
+
+
+# name: Kart_label
+# type: sq_string
+# elements: 1
+# length: 4
+Kart
+
+
+# name: Diff_formula
+# type: sq_string
+# elements: 1
+# length: 9
+Diff*1.21
+
+
+# name: LL_formula
+# type: sq_string
+# elements: 1
+# length: 7
+LL*1.21
+
+
+# name: Diff_label
+# type: sq_string
+# elements: 1
+# length: 26
+Illusion strength, arc min
+
+
+# name: LL_label
+# type: sq_string
+# elements: 1
+# length: 20
+Line length, arc min
+
+
+# name: DShiftVert_formula
+# type: sq_string
+# elements: 1
+# length: 15
+DShiftVert*1.21
+
+
+# name: DShiftVert_label
+# type: sq_string
+# elements: 1
+# length: 34
+Distractor vertical shift, arc min
+
+
+# name: DLineHeight_formula
+# type: sq_string
+# elements: 1
+# length: 16
+DLineHeight*1.21
+
+
+# name: DLineHeight_label
+# type: sq_string
+# elements: 1
+# length: 31
+Distractor line height, arc min
+
+
+# name: DShiftHor_formula
+# type: sq_string
+# elements: 1
+# length: 14
+DShiftHor*1.21
+
+
+# name: DShiftHor_label
+# type: sq_string
+# elements: 1
+# length: 48
+Distraktoriaus horizontalus poslinkis, kampo min
+
+
+# name: p_formula
+# type: sq_string
+# elements: 1
+# length: 1
+p
+
+
+# name: p_label
+# type: sq_string
+# elements: 1
+# length: 1
+p
+
+
+# name: LineHeight_formula
+# type: sq_string
+# elements: 1
+# length: 10
+LineHeight
+
+
+# name: VStepN_formula
+# type: sq_string
+# elements: 1
+# length: 6
+VStepN
+
+
+# name: VStepN_label
+# type: sq_string
+# elements: 1
+# length: 6
+VStepN
+
+
+# name: LineHeight_label
+# type: sq_string
+# elements: 1
+# length: 10
+LineHeight
+
+
+# name: Step_label
+# type: sq_string
+# elements: 1
+# length: 25
+Distractor shift, arc min
+
+
+# name: Step_formula
+# type: sq_string
+# elements: 1
+# length: 9
+Step*1.21
+
+
+
+
+# name: stimulFIG
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: description
+# type: matrix
+# rows: 0
+# columns: 0
+
+
+# name: Test_formula
+# type: sq_string
+# elements: 1
+# length: 14
+Test*PixelSize
+
+
+# name: DistrN_formula
+# type: sq_string
+# elements: 1
+# length: 6
+DistrN
+
+
+# name: Test_label
+# type: sq_string
+# elements: 1
+# length: 17
+Illusion strength
+
+
+# name: DistrN_label
+# type: sq_string
+# elements: 1
+# length: 13
+Distractor No
+
+
+# name: Kart_label
+# type: sq_string
+# elements: 1
+# length: 4
+Kart
+
+
+# name: Diff_label
+# type: sq_string
+# elements: 1
+# length: 4
+Diff
+
+
+# name: p_label
+# type: sq_string
+# elements: 1
+# length: 10
+Proportion
+
+
+# name: LL_label
+# type: sq_string
+# elements: 1
+# length: 13
+Linijos ilgis
+
+
+# name: Angle_label
+# type: sq_string
+# elements: 1
+# length: 17
+Kampas, laipsniai
+
+
+# name: Step_label
+# type: sq_string
+# elements: 1
+# length: 13
+Step, arc min
+
+
+# name: Step_formula
+# type: sq_string
+# elements: 1
+# length: 14
+Step*PixelSize
+
+
+# name: Diff_formula
+# type: sq_string
+# elements: 1
+# length: 14
+Diff*PixelSize
+
+
+# name: p_formula
+# type: sq_string
+# elements: 1
+# length: 1
+p
+
+
+
+
+# name: stimtimeVSG
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 7
+# name: description
+# type: matrix
+# rows: 0
+# columns: 0
+
+
+# name: p_formula
+# type: sq_string
+# elements: 1
+# length: 1
+p
+
+
+# name: Diff_formula
+# type: sq_string
+# elements: 1
+# length: 9
+Diff*0.37
+
+
+# name: Kart_formula
+# type: sq_string
+# elements: 1
+# length: 4
+Kart
+
+
+# name: p_label
+# type: sq_string
+# elements: 1
+# length: 1
+p
+
+
+# name: Diff_label
+# type: sq_string
+# elements: 1
+# length: 19
+Difference, arc min
+
+
+# name: Kart_label
+# type: sq_string
+# elements: 1
+# length: 4
+Kart
+
+
+
+
+# name: GraphPar
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 11
+# name: New_figure
+# type: bool
+0
+
+
+# name: Hold
+# type: bool
+0
+
+
+# name: Split_files
+# type: bool
+0
+
+
+# name: Convert
+# type: bool
+1
+
+
+# name: Raw
+# type: bool
+1
+
+
+# name: Mean
+# type: bool
+1
+
+
+# name: STD
+# type: bool
+0
+
+
+# name: SE
+# type: bool
+1
+
+
+# name: CI
+# type: bool
+0
+
+
+# name: Smooth
+# type: bool
+0
+
+
+# name: Refresh
+# type: bool
+1
+
+
+
+
+# name: fh
+# type: scalar
+1
+
+
+# name: petExperimentEmulator
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 6
+# name: description
+# type: matrix
+# rows: 0
+# columns: 0
+
+
+# name: y_label
+# type: sq_string
+# elements: 1
+# length: 7
+igrekas
+
+
+# name: x1_label
+# type: sq_string
+# elements: 1
+# length: 5
+iksas
+
+
+# name: y_formula
+# type: sq_string
+# elements: 1
+# length: 1
+y
+
+
+# name: x1_formula
+# type: sq_string
+# elements: 1
+# length: 2
+x1
+
+
+# name: p_label
+# type: sq_string
+# elements: 1
+# length: 10
+Proportion
+
+
+
+
+# name: StimSound
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 5
+# name: description
+# type: matrix
+# rows: 0
+# columns: 0
+
+
+# name: p_label
+# type: sq_string
+# elements: 1
+# length: 10
+proportion
+
+
+# name: Diff_label
+# type: sq_string
+# elements: 1
+# length: 13
+Difference, s
+
+
+# name: p_formula
+# type: sq_string
+# elements: 1
+# length: 1
+p
+
+
+# name: Diff_formula
+# type: sq_string
+# elements: 1
+# length: 4
+Diff
+
+
+
+
+# name: petRemote
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 5
+# name: description
+# type: matrix
+# rows: 0
+# columns: 0
+
+
+# name: p_label
+# type: sq_string
+# elements: 1
+# length: 1
+p
+
+
+# name: Diff_label
+# type: sq_string
+# elements: 1
+# length: 4
+Diff
+
+
+# name: p_formula
+# type: sq_string
+# elements: 1
+# length: 1
+p
+
+
+# name: Diff_formula
+# type: sq_string
+# elements: 1
+# length: 9
+Diff*1.21
+
+
+
+
+
+
