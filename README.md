@@ -14,3 +14,6 @@ Interface your own stimuli presentation function to the experiment control modul
 Change and develop the toolbox.
 
 For more information look "PET.doc" and "PET Poster LNA 2021.pdf".
+
+# Disclaimer
+PsyExTool is tested in only few enviroments, thus you are likely to encounter difficulties while exploring it. I would happy to recieve your comments.
