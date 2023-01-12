@@ -12,3 +12,5 @@ Analyse, manage and export the collected data
 Interface your own stimuli presentation function to the experiment control module
 
 Change and develop the toolbox.
+
+For more information look "PET.doc" and "PET Poster LNA 2021.pdf".
